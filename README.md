@@ -1,6 +1,6 @@
-# UCEMA - Quantitative Methods for Business and Social Science Course
+# UCEMA - Quantitative Methods for Data Science Course
 
-Quantitative Methods Course taken at Universidad del CEMA on the first semester 2021. This repository is for academic and professional purposes only, no exams or specific solutions are available.
+Quantitative Methods for Data Science Course taken at Universidad del CEMA on the first semester 2021. This repository is for academic and professional purposes only, no exams or specific solutions are available.
 
 ## Content
 
